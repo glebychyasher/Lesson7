@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3378CFD2-7566-49F0-8B6E-CD37A146E331"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E85ABF4-9C28-4A5F-BCC5-EDE478854C1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson7/QuestionsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E85ABF4-9C28-4A5F-BCC5-EDE478854C1E - dfee25259b61c8c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson7.QuestionsViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Lesson7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/glebzobnin/Desktop/%D0%9A%D1%83%D1%80%D1%81%20iOS/2.38/Lesson7/Lesson7/QuestionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "323">
+               </Location>
+               <Location
+                  uuid = "0E85ABF4-9C28-4A5F-BCC5-EDE478854C1E - dfee25259b61c8c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson7.QuestionsViewController.prepare(for: __C.UIStoryboardSegue, sender: Swift.Optional&lt;Any&gt;) -&gt; ()"
+                  moduleName = "Lesson7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/glebzobnin/Desktop/%D0%9A%D1%83%D1%80%D1%81%20iOS/2.38/Lesson7/Lesson7/QuestionsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "245">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "696BFD4E-38A8-4094-9193-3BFD82912744"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson7/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getResult()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "696BFD4E-38A8-4094-9193-3BFD82912744 - 323beeb85a1c673c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson7.ResultViewController.getResult() -&gt; Swift.Optional&lt;Lesson7.Animal&gt;"
+                  moduleName = "Lesson7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/glebzobnin/Desktop/%D0%9A%D1%83%D1%80%D1%81%20iOS/2.38/Lesson7/Lesson7/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "869">
+               </Location>
+               <Location
+                  uuid = "696BFD4E-38A8-4094-9193-3BFD82912744 - 68d2686532981d7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Lesson7.Animal, value: Swift.Int), (key: Lesson7.Animal, value: Swift.Int)) -&gt; Swift.Bool in Lesson7.ResultViewController.getResult() -&gt; Swift.Optional&lt;Lesson7.Animal&gt;"
+                  moduleName = "Lesson7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/glebzobnin/Desktop/%D0%9A%D1%83%D1%80%D1%81%20iOS/2.38/Lesson7/Lesson7/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  uuid = "696BFD4E-38A8-4094-9193-3BFD82912744 - 323beeb85a1c673c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson7.ResultViewController.getResult() -&gt; Swift.Optional&lt;Lesson7.Animal&gt;"
+                  moduleName = "Lesson7"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/glebzobnin/Desktop/%D0%9A%D1%83%D1%80%D1%81%20iOS/2.38/Lesson7/Lesson7/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "972">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D596A3F9-C6E4-4731-8C84-17FBF67E6666"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson7/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getResult()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B288CD48-F4DC-4A1F-845B-C0832A750D18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson7/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
